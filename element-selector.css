@@ -1,0 +1,23 @@
+!D
+        }
+        div {
+            background-color: aqua;
+            font-size: large;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+        /* div element selector */
+        
+            div {
+            background-color: aqua;
+        }
+   /* id selctor (#) */
+#uniqheading {
+    color: red;
+    background-color: blueviolet;
+    border: 2px solid black;
+}
+/* class selecto (.) */
+ center {
+    text-align: center;
+    color: red;
+ }

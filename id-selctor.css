@@ -1,0 +1,9 @@
+  /* element selector */
+  h1
+  {
+      color: blue;
+  }
+  /* id selctor */
+  #unique-Heading {
+      color: red;
+  }
